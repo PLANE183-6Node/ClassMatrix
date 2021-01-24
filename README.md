@@ -4,6 +4,6 @@
 To do:
 
  Markup : * ~~additions~~
-          * subtractions
+ Markup : * subtractions
           * multiplications
           * inverse
