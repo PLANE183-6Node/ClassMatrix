@@ -3,7 +3,7 @@
 
 To do:
 
-- [x] additions
-- [ ] subtractions
-- [ ] multiplications
-- [ ] inverse
+ Markup : * ~~additions~~
+          * subtractions
+          * multiplications
+          * inverse
