@@ -3,7 +3,10 @@
 
 To do:
 
- Markup : * ~~additions~~
- Markup : * subtractions
-          * multiplications
-          * inverse
+~~additions~~
+
+subtractions
+
+multiplications
+
+inverse
