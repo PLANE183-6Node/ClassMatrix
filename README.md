@@ -3,5 +3,7 @@
 
 To do:
 
-- [ ] additions
-- [x] subtractions
+- [x] additions
+- [ ] subtractions
+- [ ] multiplications
+- [ ] inverse
